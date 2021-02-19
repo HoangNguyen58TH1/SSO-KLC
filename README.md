@@ -1,2 +1,2 @@
 # SSO-KLC
-SSO React Native
+SSO mobile
